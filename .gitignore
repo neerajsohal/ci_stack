@@ -1,0 +1,24 @@
+*/system/logs/log-*.php
+*/system/cache/*
+*/system/cache/!index.html
+
+.DS_Store
+Icon?
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+
+# Windows image file caches
+Thumbs.db
+
+# Folder config file
+Desktop.ini
+
+nbproject/
+
+.htaccess

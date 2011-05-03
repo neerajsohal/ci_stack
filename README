@@ -1,0 +1,12 @@
+CI Development Stack
+@version 0.1
+@author Neeraj Kumar
+
+This Codeigniter Framework Stack contains:
+
+1. Codeigniter @ver 2.0.2 (http://codeigniter.com/)
+2. Tank Auth @ver 1.0.9 (http://www.konyukhov.com/soft/tank_auth/)
+3. Datamapper @ver 1.8.0 (http://datamapper.wanwizard.eu/)
+
+4. Blueprint CSS @ver 1.0 (http://www.blueprintcss.org/)
+5. Jquery @ver 1.5.2 (http://jquery.com)
